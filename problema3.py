@@ -1,0 +1,5 @@
+nf=input("dati numarul de fete")
+nf=int(nf)
+nb=int(nf+10)
+nt=int(nf+nb)
+print("in tabara sunt ",nt," copii")
